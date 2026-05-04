@@ -14,7 +14,7 @@
   <!-- Metrics & Versioning Badges -->
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-v14.0-e8382f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Advanced_%26_Correlation-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coverage-7_Platforms-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coverage-6_Platforms-a855f7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Version-2.0.0-f59e0b?style=for-the-badge" />
 
 </div>
