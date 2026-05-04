@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Chronicle-YARA--L-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Elastic-EQL-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Sigma-Universal-005E9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wazuh-XML-00a8e1?style=for-the-badge" />
+  
 
   <br><br>
 
